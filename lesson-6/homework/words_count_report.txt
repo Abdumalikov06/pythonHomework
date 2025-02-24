@@ -1,0 +1,8 @@
+Word count report
+Total words:16
+Tow 5 words:
+is-3
+file-3
+this-2
+a-2
+simple-1
