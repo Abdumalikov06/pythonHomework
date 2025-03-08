@@ -12,4 +12,4 @@ try:
         f_user_input=int(input("Enter a positive, non-zero integer: "))
         factor_of_positive_int(f_user_input)
 except KeyError:
-    print("Invalid input! you entered not valid number.")
+    print("Invalid input! you entered not valid number. ")
